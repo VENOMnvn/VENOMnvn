@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Naveen Chaudhary</h1> 
 
-### <div align="center">Software Engineer<br>Final Year student at JSS Academy of Technical Education Noida</div>  
+### <div align="center">This is my old Account. Please visit new one</div>  
 <a href="https://github.com/chaudhary-naveen"> Link to My GITHUB profile : chaudhary-naveen </a>
 <br/>
 <br/> 
